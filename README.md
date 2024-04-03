@@ -1,2 +1,2 @@
 # CCC-solutions
-Solutions to past CCC problems
+My solutions to past CCC problems
